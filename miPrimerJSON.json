@@ -1,0 +1,24 @@
+{
+    "miLista":{
+        "lista":[
+            {
+                "id":1,
+                "nombre":"Juan",
+                "apellido":"Perez",
+                "edad":20
+            },
+            {
+                "id":2,
+                "nombre":"Pedro",
+                "apellido":"Perez",
+                "edad":30
+            },
+            {
+                "id":3,
+                "nombre":"Maria",
+                "apellido":"Perez",
+                "edad":40
+            }
+        ]
+    }
+}
