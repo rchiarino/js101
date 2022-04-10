@@ -1,0 +1,17 @@
+{
+  "name": "js101",
+  "version": "1.0.0",
+  "description": "alguna desc",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "author": "nombre/s",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.5.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.4.1"
+  }
+}
